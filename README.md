@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Shivansh Tewari
-* **Roll Number:** 24BAI10112
+* **Name:** Pranav Goswami
+* **Roll Number:** 24BAI10872
 
 ---
 
